@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Greyscale</string>
+
+    <string name="no_permission">WRITE_SECURE_SETTINGS permission must be granted through adb</string>
+
+</resources>
