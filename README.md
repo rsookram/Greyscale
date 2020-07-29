@@ -46,7 +46,7 @@ dependencies used in the app.
 
 ## Forked!
 
-This was forked from
-[BerenLuth/Greyscale](https://github.com/BerenLuth/Greyscale) which in turn
-was forked from [fei-ke/Greyscale](https://github.com/fei-ke/Greyscale). Almost
-all of the code has been changed since being forked however.
+This repository started in
+[this fork](https://github.com/rsookram/Greyscale-Fork) and was turned into a
+standalone repository since almost all of the code had been changed since being
+forked.
