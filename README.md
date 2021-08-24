@@ -4,6 +4,10 @@ Greyscale is a quick settings tile for Android which allows you to toggle a
 device between colour display and greyscale.
 
 
+### Translations
+- [中文](README-ZH.md)
+
+
 ## Screenshots
 
 <img src="screenshots/screenshot.png" width="270" height="480" align="left">
